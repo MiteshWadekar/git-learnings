@@ -9,6 +9,7 @@ public class GitLearningsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitLearningsApplication.class, args);
 		System.out.println("GSSBSL THANKS");
+		System.out.println("Line 12");
 	}
 
 }
